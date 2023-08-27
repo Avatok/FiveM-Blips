@@ -30,7 +30,6 @@ local blips = {
      {title="Kirche", colour=1, id=621, x = -785.19, y = -708.89, z = 30.33},
      {title="Weazel News / LifeInvader", colour=1, id=459, x = -587.8, y = -922.74, z = 23.87},
      {title="Weazel News / LifeInvader", colour=1, id=459, x = -1080.84, y = -248.16, z = 37.76},
-     {title="Admin", colour=28, id=809, x = -75.202, y = -818.947, z = 323.259},
   }
       
 Citizen.CreateThread(function()
